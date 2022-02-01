@@ -88,7 +88,9 @@ Lanzamos el siguiente comando y levantaremos el contenedor **hello-world** :wink
 docker run hello-world
 ```
 
-En este momento docker descargará la imagen del contenedor y nos ejecutará un contenedor con la imagen descargada y nos mostrara el mensaje de la siguiente imagen.
+En este momento docker nos indicará que no encuentra la imagen (hello-world) en nuestro sistema, la descargará y nos ejecutará un contenedor con la imagen descargada.
+
+Veras algo parecido a la siguiente imagen.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/misapuntesit/DCA/master/assets/hello-world.png?raw=true" alt="Hello-world-image"/>
