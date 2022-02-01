@@ -90,6 +90,9 @@ docker run hello-world
 
 En este momento docker descargará la imagen del contenedor y nos ejecutará un contenedor con la imagen descargada y nos mostrara el mensaje de la siguiente imagen.
 
-![hello-world](https://raw.githubusercontent.com/misapuntesit/DCA/master/assets/hello-world.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/misapuntesit/DCA/master/assets/hello-world.png?raw=true" alt="Hello-world-image"/>
+</p>
+
 
 Ya estamos preparados para continuar aprendiendo todo el ecosistema docker :wink:
