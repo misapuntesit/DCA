@@ -88,7 +88,8 @@ Lanzamos el siguiente comando y levantaremos el contenedor **hello-world** :wink
 docker run hello-world
 ```
 
-En este momento docker descargará la imagen del contenedor y nos ejecutará un contenedor con la imagen descargada.
+En este momento docker descargará la imagen del contenedor y nos ejecutará un contenedor con la imagen descargada y nos mostrara el mensaje de la siguiente imagen.
 
+![hello-world]()
 
 Ya estamos preparados para continuar aprendiendo todo el ecosistema docker :wink:
