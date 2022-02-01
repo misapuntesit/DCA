@@ -98,3 +98,5 @@ Veras algo parecido a la siguiente imagen.
 
 
 Ya estamos preparados para continuar aprendiendo todo el ecosistema docker :wink:
+
+**NOTA**: Para más información puedes revisar la documentación oficial de docker: https://docs.docker.com/engine/install/centos/
