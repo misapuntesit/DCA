@@ -10,7 +10,7 @@ El primer paso es intalar algunos paquetes requeridos por docker
 
 ```Bash
 ## Usamos el flag -y para evitar que nos pida aceptación
-sudo yum install -y yum-utils. device-mapper-persistent-data lvm2
+sudo yum install -y yum-utils device-mapper-persistent-data lvm2
 ```
 
 ## Añadir el repositorio Docker
